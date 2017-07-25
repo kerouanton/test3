@@ -11,8 +11,9 @@ def fib(n): # write Fibonacci series up to n
         a, b = b, a+b
     print()
 
-
-
-t=time.time()
-fib(1e201)
-print("Execution time:{} seconds.".format(time.time()-t))
+a=1e300
+print("List of Fibonacci numbers up to {:1.0e} :".format(a))
+t_begin=time.time()
+fib(a)
+t_end=time.time()
+print("Execution time: {:.3} seconds.".format(t_end-t_begin))
