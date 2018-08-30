@@ -9,6 +9,7 @@ Don't blame me, this is lame and basic.
 History
 -------
 - Added branch v1
+- This is a good test
 
 Output expected
 ---------------
