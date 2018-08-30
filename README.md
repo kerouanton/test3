@@ -6,6 +6,10 @@ Simple test repository for learning purposes.
 Don't blame me, this is lame and basic.
 
 
+History
+-------
+- Added branch v1
+
 Output expected
 ---------------
 
