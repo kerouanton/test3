@@ -5,13 +5,6 @@ Fibonacci test repository
 Simple test repository for learning purposes.
 Don't blame me, this is lame and basic.
 
-- this is a test
-- this a seconde tgest
-
-
-1. tiro
-2. turu
-
 
 Output expected
 ---------------
